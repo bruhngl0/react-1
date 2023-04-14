@@ -1,0 +1,52 @@
+.img-hanu{
+  width: 90px;
+  height: 100px;
+  
+}
+
+body{
+  background-color: rgb(58, 55, 55);
+  width: 300px;
+  height: 550px;
+}
+
+.nav-one{
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  
+  
+}
+
+.body-one{
+  margin: 0px;
+  
+ 
+}
+
+li{
+  padding: 10px;
+  font-size: larger;
+  font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  color: rgb(147, 138, 138);
+  word-spacing: 2px;
+  
+}
+
+.cont-head{
+  font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  color: rgb(197, 39, 39);
+  padding-left: 10px;
+  padding-top: 20px;
+
+}
+
+.nav-pa{
+  font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  color:  rgb(197, 39, 39);
+  letter-spacing: 2px;
+}
+
+li::marker{
+  color:rgb(197, 39, 39)
+}
